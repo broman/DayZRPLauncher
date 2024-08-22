@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DayZRPLauncher.Steam {
+    internal class SteamQueryResponse {
+        public Dictionary<string, WorkshopCollection>? result {  get; set; }
+    }
+}
