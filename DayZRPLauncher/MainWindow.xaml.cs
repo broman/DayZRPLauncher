@@ -5,8 +5,6 @@
  * 2024-08-21
  */
 
-using System.Diagnostics;
-using System;
 using System.Windows;
 
 namespace DayZRPLauncher {

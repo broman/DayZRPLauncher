@@ -5,14 +5,8 @@
  * 2024-08-21
  */
 
-using System;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Net.Http;
 using System.Windows;
-using DayZRPLauncher.Steam;
-using System.Text.Json;
-using System.Net;
 
 namespace DayZRPLauncher {
 
